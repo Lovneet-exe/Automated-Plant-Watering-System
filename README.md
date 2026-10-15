@@ -1,6 +1,8 @@
 Automated Plant Watering System
 A Java-controlled automated plant watering system using a Grove Arduino board, Firmata4j, and various hardware sensors. It monitors soil moisture, controls a pump via a state machine, displays live metrics on an OLED screen, and plots real-time voltage using JFreeChart.
 
+Demo Video: https://www.youtube.com/watch?v=ewtW-MKIaDk
+
 Key Features-
 Automated Irrigation: Triggers the pump when soil voltage exceeds 3.5 V (dry) and stops below 2.8 V(wet).
 
